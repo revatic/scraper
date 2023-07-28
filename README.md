@@ -26,11 +26,3 @@ The scraper will start fetching data from the Zaubacorp website, and the progres
 - The MongoDB connection URI is set as `MONGO_URI = "mongodb://localhost:27017/"`. Make sure MongoDB is running on your system.
 - The database name and collection name can be modified using `DATABASE_NAME` and `COLLECTION_NAME` variables in the `scraper.py` file.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have ideas for improvements, feel free to create an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
